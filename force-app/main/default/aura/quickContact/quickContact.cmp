@@ -15,6 +15,7 @@
     <lightning:card title="Edit Contact quickly">
         <div>
             hi BHawna
+            my first project on git hub
         </div>
         <!-- Input base component for editing fields -->
         <p class="slds-p-horizontal--small">
