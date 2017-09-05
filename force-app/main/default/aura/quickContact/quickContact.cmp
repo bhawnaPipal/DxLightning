@@ -13,7 +13,9 @@
     
     <!-- UI Base component using SLDS for a Container of the Contact fields -->
     <lightning:card title="Edit Contact quickly">
-        
+        <div>
+            hi BHawna
+        </div>
         <!-- Input base component for editing fields -->
         <p class="slds-p-horizontal--small">
                 <lightning:input type="text" label="First Name" name="first" value="{!v.con.FirstName}" />
